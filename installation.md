@@ -19,7 +19,7 @@ Based on your operating system kindly follow steps by steps to avoid any kind of
 
 
 ## Ubuntu
-- Step 1: Intstall python3 using `sudo apt-get install python3-venv`
+- Step 1: Intstall python3 virtual environment using `sudo apt-get install python3-venv`
 - Step 2: Create venv using `python3 -m venv [folder_name]` (e.g. python3 -m virtualenv testenv)
 - Step 3: Activate env using `source env/bin/activate`
 - Step 4: Install requiremnets using `pip install -r requirements.txt` if available
